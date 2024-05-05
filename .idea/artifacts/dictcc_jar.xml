@@ -4,6 +4,7 @@
     <root id="archive" name="dictcc.jar">
       <element id="module-output" name="dictcc" />
       <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/jsoup-1.17.2.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/dictcc.properties" />
     </root>
   </artifact>
 </component>
