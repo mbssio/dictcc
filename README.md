@@ -20,7 +20,7 @@
 
 ## Windows
 ### Windows Executable (.exe)
-Find an executable under releases [here][windows-release] (requires JDK 22+).
+Find the executable under releases [here][windows-release] (requires JDK 22+).
 
 Usage:
 After executing, the program will prompt the user to enter language codes (dict.cc) followed by the keyword they want to get translated repeatedly.
@@ -29,7 +29,7 @@ After executing, the program will prompt the user to enter language codes (dict.
 
 ## Universal (any OS)
 ### Java Executable (.jar)
-Find an executable under releases [here][universal-release] (requires JDK 22+).
+Find the executable under releases [here][universal-release] (requires JDK 22+).
 
 Usage:
 Run the program:
