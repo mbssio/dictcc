@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="dictcc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dictcc_jar</output-path>
+    <root id="archive" name="dictcc.jar">
+      <element id="module-output" name="dictcc" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/libs/jsoup-1.17.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
